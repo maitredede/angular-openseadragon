@@ -1,7 +1,7 @@
 angular-openseadragon
 =====================
 
-Angular module for OpenSeaDragon
+Angular module for OpenSeadragon
 
 # Usage
 Model :
