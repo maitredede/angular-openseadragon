@@ -30,6 +30,7 @@ prefixUrl | Overrides the `prefixUrl` of the options. (raw value, does not evalu
 tilesource | Overrides the `tileSources` of the options. (raw value, does not evaluate angular expression)
 
 If you set the `name` attribute, you can access the following :
+
 Name | Description
 ---- | -----------
 setFullScreen(fullScreen) | See http://openseadragon.github.io/docs/OpenSeadragon.Viewer.html#setFullScreen
